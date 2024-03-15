@@ -14,7 +14,7 @@ El temario del curso será:
 <br />
 - [¿Qué es Kotlin?](https://youtu.be/vJapzH_46a8)
 - [Instalar Android Studio para Kotlin](https://youtu.be/vJapzH_46a8?t=200)
-- [Valores y variables en Kotlin](https://youtu.be/vJapzH_46a8?t=1097)
+- [Valores y variables en Kotlin](https://youtu.be/vJapzH_46a8?t=1097)[app](app)
 - [Trabajando con variables en Kotlin](https://youtu.be/vJapzH_46a8?t=2275)
 - [Funciones en Kotlin](https://youtu.be/vJapzH_46a8?t=3128)
 - [Funciones con parámetros de entrada y salida](https://youtu.be/vJapzH_46a8?t=3699)
